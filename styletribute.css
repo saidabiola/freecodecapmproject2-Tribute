@@ -1,0 +1,66 @@
+body{
+    background-color:#fcffe0;
+    width:100%;
+    font-family:Tahoma, verdana;
+    padding-bottom:20
+  }
+  main{
+    width:98%;
+    margin-top:30px;
+    background-color:#e2dfd0;
+    padding-bottom:30px;
+  }
+  h1, h3, p{
+    text-align:center
+  }
+  #title{
+    font-size:2.3rem
+  }
+  h1{
+    padding-top:25px
+  }
+  img{
+    display:block;
+    margin:0 auto;
+    max-width:100%;
+    height:auto;
+    filter: grayscale(100%)
+    }
+  
+  #img-div{
+    display:block;
+    margin:0 auto;
+  }
+  figcaption{
+    text-align:center;
+    padding-top:15px;
+  }
+  span{
+    font-weight:bold;
+  }
+  ul > li{
+    padding:10px 0;
+    line-height:1.6;
+    
+  }
+  .image-container{
+    background-color:#fcffe0;
+    padding:20px;
+    margin:0 10px;
+  }
+  #quote{
+    padding-top:30px;
+    
+  }
+  .biography-info{
+    width:50%;
+    padding:0 50px;
+    margin:0 auto;
+}
+  .tribute-link{
+    font-weight:bold;
+    padding-top:50px;
+  }
+  #quoteby{
+    padding-top:5px
+  }
